@@ -25,5 +25,7 @@ public class LoginRequest {
 		return "LoginRequest [username=" + username + ", password=" + password + "]";
 	}
 	
+	
+	
 
 }
