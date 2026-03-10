@@ -24,8 +24,7 @@ public class LoginTest {
 		
 		Assert.assertTrue(loginResponse.getToken()!=null);
 		Assert.assertEquals(loginResponse.getUsername(), "aish1234");
-		
-		
+				
 	}
 
 }

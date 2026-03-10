@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-25T13:38:56 GMT" name="Default suite" finished-at="2026-02-25T13:39:00 GMT" duration-ms="3818">
+  <suite started-at="2026-03-10T14:38:28 GMT" name="Default suite" finished-at="2026-03-10T14:38:33 GMT" duration-ms="4262">
     <groups>
     </groups>
-    <test started-at="2026-02-25T13:38:56 GMT" name="Default test" finished-at="2026-02-25T13:39:00 GMT" duration-ms="3818">
-      <class name="com.api.tests.AccountCreationTest">
-        <test-method signature="AccountCreationTest()[pri:0, instance:com.api.tests.AccountCreationTest@4d5650ae]" started-at="2026-02-25T13:38:56 GMT" name="AccountCreationTest" description="Verify if Account Creation API Working" finished-at="2026-02-25T13:39:00 GMT" duration-ms="3643" status="PASS">
+    <test started-at="2026-03-10T14:38:28 GMT" name="Default test" finished-at="2026-03-10T14:38:33 GMT" duration-ms="4262">
+      <class name="com.api.tests.updateProfile">
+        <test-method signature="updateProfileTest()[pri:0, instance:com.api.tests.updateProfile@25641d39]" started-at="2026-03-10T14:38:28 GMT" name="updateProfileTest" finished-at="2026-03-10T14:38:33 GMT" duration-ms="4093" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- AccountCreationTest -->
-      </class> <!-- com.api.tests.AccountCreationTest -->
+        </test-method> <!-- updateProfileTest -->
+      </class> <!-- com.api.tests.updateProfile -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
